@@ -35,7 +35,12 @@
       "ProjectGuid": "01ea451d-a8ea-4aae-b858-8b13b4944d2a",
       "DisplayName": "BlogApi",
       "ColorIndex": 5
+    },
+    "0e15f159-20fb-40b8-a366-2bb42a038af9": {
+      "ProjectGuid": "0e15f159-20fb-40b8-a366-2bb42a038af9",
+      "DisplayName": "BlogApi",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
